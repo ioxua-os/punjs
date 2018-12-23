@@ -1,0 +1,19 @@
+{
+  "name": "@ioxua/punjs",
+  "version": "1.0.0",
+  "description": "A pun-tastic NPM package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch": "node fetchers"
+  },
+  "keywords": [
+    "pun"
+  ],
+  "author": "Yehoshua Oliveira <ioxua.oliveira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "clui": "^0.3.6",
+    "commander": "^2.19.0"
+  }
+}
